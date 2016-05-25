@@ -1,0 +1,1 @@
+rm /Applications/Firefox.app
