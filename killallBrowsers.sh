@@ -1,0 +1,1 @@
+sudo killall "Google Chrome" Safari firefox
