@@ -1,0 +1,1 @@
+curl -# -u [Replace with User]:[Replace with Password] -T [Replace with example file path]  ftp://[Replace with IP of FTP server]
