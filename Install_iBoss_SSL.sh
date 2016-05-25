@@ -1,0 +1,1 @@
+sudo security add-trusted-cert -d -r trustRoot -k "/Library/Keychains/System.keychain" "CRTlpath_keep_quotations" srm "CRTlpath_keep_quotations"
