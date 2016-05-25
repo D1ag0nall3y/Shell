@@ -1,0 +1,2 @@
+sudo jamf bind -type ad -domain "domain" -username "replace_with_username" -password "replace_with_password" -ou CN=computers,DC="Value",DC="Value",DC=ms,DC=us -preferredServer "preferredServer" -cache
+#echo "result of last command:" $? >> /var/log/jamf.log
